@@ -12,4 +12,4 @@ Population
 
 Countries with Average Population greater than 65 years of age:
 
-![Age group]('World Indicators'/Population65.png)
+![Age group](/Population65.png)
