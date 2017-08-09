@@ -7,9 +7,15 @@ This repository contains visuals created using:
 
 These visuals are Analyzed and Visualized using Tableau.
 
-Population
+World Population
 ----------------------
 
-Countries with Average Population greater than 65 years of age:
-
 ![Age group](/Population65.png)
+
+
+Health
+------------
+
+![Infant Mortality](InfantMortality.png)
+
+![Life Expectancy](/LifeExpectancy.png)
