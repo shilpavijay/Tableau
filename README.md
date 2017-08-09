@@ -16,6 +16,18 @@ World Population
 Health
 ------------
 
-![Infant Mortality](InfantMortality.png)
-
 ![Life Expectancy](/LifeExpectancy.png)
+
+![Infant Mortality](/InfantMortality.png)
+
+
+Development
+-----------------
+
+![CO2 Emission](/CO2Emission.png)
+
+![Mobile Phone](/MobilePhoneUsage.png)
+
+![Tourism](/Tourism.png)
+
+![Per Capita Income](/PerCapitaIncome.png)
