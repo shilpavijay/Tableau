@@ -8,6 +8,7 @@ This repository contains visuals created using:
 These visuals are Analyzed and Visualized using Tableau.
 
 <br />
+
 World Population
 ----------------------
 
