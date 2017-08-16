@@ -1,7 +1,7 @@
 Tableau
 ----------------------
 
-This repository contains visuals created using World data to analyze Population, Business, Health etc.
+This repository contains visuals created using World data to analyze factors like world Population, Development, Health etc.
 
 
 These visuals are Analyzed and Visualized using Tableau.
